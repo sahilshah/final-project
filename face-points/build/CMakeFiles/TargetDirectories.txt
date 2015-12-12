@@ -1,0 +1,2 @@
+/Users/sahilshah/Desktop/cmu/courses/comp-photo/final-project/face-points/build/CMakeFiles/get_landmarks.dir
+/Users/sahilshah/Desktop/cmu/courses/comp-photo/final-project/face-points/build/dlib_build/CMakeFiles/dlib.dir
